@@ -1,0 +1,37 @@
+#artists .solo	{
+	margin: 20px 0px;
+}
+
+#artists .solo a {
+	text-decoration: none;
+	color: white;
+	font-size: 14px;	
+}
+
+#artists img {
+	width: 95%;
+}
+
+#artists img:hover {
+	filter: opacity(80%);
+    transition: .3s ease;
+}
+
+#artists .one-third, #artists .oec, #artists .yyxy{
+	padding: 10px;
+	margin-top: 80px;
+	border: 1px solid;
+	border-radius: 5px; 	
+}
+
+#artists .one-third {
+	border-color: magenta;
+}
+
+#artists .oec {	
+	border-color: blue;
+}
+
+#artists .yyxy {	
+	border-color: yellow;
+}

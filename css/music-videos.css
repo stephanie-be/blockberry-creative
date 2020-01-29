@@ -1,0 +1,21 @@
+#mv video {
+	width: 80%;
+}
+
+#mv .one-third, #mv .oec, #mv .yyxy{
+	padding: 30px;
+	margin-bottom: 80px;
+	border: 1px solid;
+	border-radius: 5px; 	
+}
+#mv .one-third {
+	border-color: magenta;
+}
+
+#mv .oec {	
+	border-color: blue;
+}
+
+#mv .yyxy {	
+	border-color: yellow;
+}

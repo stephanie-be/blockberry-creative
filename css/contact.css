@@ -1,0 +1,47 @@
+#contact h4, #contact p {
+	color: white;
+}
+
+#contact p {
+ 	padding-bottom: 15px;
+}
+
+#contact .form {
+	width: 100%;
+	margin-top: 20px;
+}
+
+#contact label {
+	color: #dedede;
+	font-weight: 700;
+	display: inline-block;
+	margin-top: 15px;
+}
+
+#contact input[type=text], #contact textarea{
+	color: white;
+	margin: 5px 0px;
+	border: 1px;
+	padding: 8px;
+	width: 95%;
+	background-color: #0b0b0b;	
+}
+
+#contact textarea {
+	height: 180px;
+}
+
+#contact .submit {
+	margin: 15px auto;
+	border: solid #3fbae8 1px;
+	font-weight: 700;	
+	padding: 6px 15px 9px 15px;
+	background-color: white;
+}
+
+#contact .submit:hover {
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s;
+ 	transition-duration: 0.4s;
+	background-color: #3fbae8;
+}
